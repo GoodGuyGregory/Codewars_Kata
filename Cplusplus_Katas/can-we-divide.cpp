@@ -1,5 +1,5 @@
 /*  Kata:  
-    Your task is to create functionisDivideBy (or is_divide_by) 
+    Your task is to create function **isDivideBy** (or is_divide_by) 
     to check if an integer number is divisible by each out of two arguments.
 
 EXAMPLES:  
@@ -16,3 +16,8 @@ EXAMPLES:
 
 // Solution Here:  
 
+bool isDivideBy(int number, int a, int b)
+{
+  //your code here
+  
+}
