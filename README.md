@@ -1,8 +1,7 @@
-# Codewars_Kata
-# Kata training
+# Codewars_Katas
 ------------------------------
-## C++
-## Python 
+## [C++](./Cplusplus_Katas)
+## [Python](./Python_Katas)
 ## Ruby
 ## JavaScript
 ## Php
