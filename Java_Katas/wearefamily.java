@@ -1,6 +1,9 @@
-// https://www.codewars.com/kata/psychic?utm_source=newsletter&utm_medium=email&utm_campaign=weekly_coding_challenges&utm_term=2019-08-27
-
+// 
 /*
+
+    #  https://www.codewars.com/kata/we-are-family/java
+    #  We are Family Kata
+
     We need a system that can learn facts about family relationships, check their consistency and answer queries about them.
 
     The task
@@ -63,7 +66,7 @@ Public Class Family {
     } 
 
     Public void male(String name){
-        
+
     } 
 }
 
